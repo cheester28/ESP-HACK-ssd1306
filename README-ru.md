@@ -130,3 +130,4 @@ Thanks Dripside!
 
 Автор: Teapot174  
 Telegram: `@ESPH4CK`
+Портировал: Chester28
