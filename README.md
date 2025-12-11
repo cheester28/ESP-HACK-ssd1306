@@ -4,6 +4,8 @@
 
 ## 🚀 About ESP-HACK FW
 
+The firmware has been ported to the ssd1306 display and is compatible with the ssd1315.
+
 ESP-HACK is a powerful universal firmware for the ESP32, built for RF research and pentesting of radio frequencies, Bluetooth, infrared signals and GPIO integrations.  
 The project targets enthusiasts and pentesters who want to explore protocols and devices in Sub-GHz ranges and other wireless technologies.
 
@@ -88,7 +90,7 @@ Thanks Dripside!
 |-----------|--------|
 | ESP32-WROOM | [TAP](https://aliexpress.ru/item/1005007817121199.html) |
 | CC1101 | [TAP](https://aliexpress.ru/item/1005008544032996.html) |
-| Display SH1106 | [TAP](https://aliexpress.ru/item/1005004464878029.html) |
+| Display ssd1306 | [TAP](https://aliexpress.ru/wholesale?SearchText=ssd1306+128x64+white) |
 | SD-Мodule | [TAP](https://aliexpress.ru/item/32674518514.html) |
 | Buttons | [TAP](https://aliexpress.ru/item/4000452176168.html) |
 | IR-TX, IR-RX | [TAP](https://aliexpress.ru/item/1005007446501425.html) |
